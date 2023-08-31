@@ -1,4 +1,4 @@
-package hw5Q2Constructor;
+package hw5Q3Constructor;
 
 public class Student {
 	public String stName;
@@ -21,5 +21,4 @@ public class Student {
 				+ grade + ", and is programmer? Ans: " + isProgrammer);
 
 	}
-
 }

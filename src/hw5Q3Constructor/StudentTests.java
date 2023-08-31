@@ -1,6 +1,6 @@
-package hw5Q2Constructor;
+package hw5Q3Constructor;
 
-public class StudentTest {
+public class StudentTests {
 
 	public static void main(String[] args) {
 		Student student = new Student();

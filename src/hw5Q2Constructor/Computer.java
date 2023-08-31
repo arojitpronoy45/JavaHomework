@@ -1,7 +1,6 @@
-package hw5Q1Constructor;
+package hw5Q2Constructor;
 
 public class Computer {
-
 	public String brandName;
 	public String model;
 	public String operatingSytem;
@@ -25,5 +24,4 @@ public class Computer {
 				+ ", Price: $" + computerPrice + ", Grade: " + Grade + " and Made in the USA? Ans: " + madeInUSA);
 
 	}
-
 }
