@@ -1,4 +1,4 @@
-package hw5Q3Constructor;
+package hw5Q2Constructor;
 
 public class Student {
 	public String stName;

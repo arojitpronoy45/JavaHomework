@@ -1,4 +1,4 @@
-package hw5Q2Constructor;
+package hw5Q1Constructor;
 
 public class Computer {
 	public String brandName;
