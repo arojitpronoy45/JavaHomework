@@ -22,5 +22,7 @@ public class DiabeticCondition {
 
 			System.out.println("I am a healthy person");
 
+		scanner.close();
+
 	}
 }

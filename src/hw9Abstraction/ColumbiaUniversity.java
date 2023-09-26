@@ -6,11 +6,11 @@ public class ColumbiaUniversity {
 	}
 	// we cannot call an abstract class inside a regular class
 	/*
-	public abstract void biology();
-	*/
-	
-	//default constructor 
+	 * public abstract void biology();
+	 */
+
+	// default constructor
 	public ColumbiaUniversity() {
-		
+
 	}
 }
