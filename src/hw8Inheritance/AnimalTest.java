@@ -1,7 +1,8 @@
 package hw8Inheritance;
 
 public class AnimalTest {
-
+	// Animal is the parent class
+	// Mammal is the child class of Animal class
 	public static void main(String[] args) {
 		Animal animal = new Animal();
 		animal.animalInfo();
