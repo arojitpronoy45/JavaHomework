@@ -17,10 +17,10 @@ public interface University {
 
 	// an interface cannot have constructor
 	/*
-	 * public University() {
- 	// Only one keyword is used for the inheritance in interface
- 	// An interface cannot inherit a regular class or an abstract class by extends keyword
- 	// more than one interface is possible by extends keyword separated by coma
+	 * public University() { 
+	 * Yes, an interface can inherit other interfaces 
+	 * an interface cannot be inherited by a regular or abstract class by extends key
+	 * word // More than one inheritance is possible
 	 * 
 	 * 
 	 */
